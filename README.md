@@ -8,3 +8,15 @@
 
 
 Matlab2022、Signal process toolbox
+
+
+
+# Progress
+
+- [x] Basic UI design
+
+- [x] Signal generation
+
+- [x] Noise generation
+
+- [x] Filter signal
