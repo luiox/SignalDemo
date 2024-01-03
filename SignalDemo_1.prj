@@ -1,14 +1,16 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="608750837" file="D:\WorkSpace\SignalDemo\SignalDemo_1.prj" location="D:\WorkSpace\SignalDemo" name="SignalDemo_1" preferred-package-location="D:\WorkSpace\SignalDemo\SignalDemo_1\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="871783104" file="D:\WorkSpace\SignalDemo\SignalDemo_1.prj" location="D:\WorkSpace\SignalDemo" name="SignalDemo_1" preferred-package-location="D:\WorkSpace\SignalDemo\SignalDemo_1\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>SignalDemo</param.appname>
     <param.icon />
     <param.icons />
     <param.version>1.0</param.version>
     <param.authnamewatermark>Canrad</param.authnamewatermark>
-    <param.email />
+    <param.email>canrad@nbut.edu.cn</param.email>
     <param.company />
-    <param.summary />
-    <param.description />
+    <param.summary>A Signal Demostation Progam</param.summary>
+    <param.description>The MIT License (MIT)
+
+Copyright (c) 2023-2024 Shengtao Feng</param.description>
     <param.screenshot />
     <param.guid />
     <param.installpath.string>\SignalDemo\</param.installpath.string>
@@ -41,15 +43,16 @@
 	 
  Input Arguments 
 	 -?  print help on how to use the application 
-	 input arguments</param.help.text>
+	 input arguments 
+ Description 
+ 	 The MIT License (MIT)
+
+Copyright (c) 2023-2024 Shengtao Feng</param.help.text>
     <unset>
       <param.icon />
       <param.icons />
       <param.version />
-      <param.email />
       <param.company />
-      <param.summary />
-      <param.description />
       <param.screenshot />
       <param.guid />
       <param.installpath.string />
